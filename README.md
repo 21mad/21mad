@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @21mad<br>👀 I’m interested in web development and web design, <br>🌈 Inspired by music of different genres, and I like to be in the know :)<br>🌱 I’m currently learning Internet programming languages (esp. Ruby) and basics of web design<br>📫 How to reach me: https://t.me/o21mad
+👋 Hi, I’m @21mad<br>👀 I’m interested in web development and web design <br>🌈 Inspired by music of different genres, and I like to be in the know :)<br>🌱 I’m currently learning Internet programming languages (esp. Ruby) and basics of web design<br>📫 How to reach me: https://t.me/o21mad
 
 
 # 💻 Tech Stack:
