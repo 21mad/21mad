@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=21mad&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### 🤔 It's time to think
+### 🤔
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
