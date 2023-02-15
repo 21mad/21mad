@@ -6,8 +6,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=21mad&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### 🤔
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=21mad&icon=0&color=12)](https://visitcount.itsvg.in)
